@@ -1,16 +1,28 @@
-# React + Vite
+# React Practical 04
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Project Title
 
-Currently, two official plugins are available:
+React Counter Application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Developed Using
 
-## React Compiler
+- React.js
+- JavaScript
+- HTML
+- CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Description
 
-## Expanding the Oxlint configuration
+This project demonstrates the basic implementation of a React.js application using the useState hook and event handling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+The application contains a counter with Increase, Decrease, and Reset buttons. The counter value updates dynamically when the buttons are clicked.
+
+## Student Details
+
+Name: Arnab Das
+
+Roll No: ADTU/0/2024-27/BCAO/016
+
+Semester: BCA 5th Semester
+
+Section: B
